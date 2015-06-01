@@ -1,0 +1,9 @@
+The data that I selected was from the Kansas City, Lawrence, Topeka Kansas area.
+
+This area covers a corridor from Kansas City, which straddles Missouri and Kansas, west to Topeka, the state Capital.
+
+The URL for the data was:
+
+https://s3.amazonaws.com/metro-extracts.mapzen.com/kansas-city-lawrence-topeka_kansas.osm.bz2
+
+I selected this region because I have spent a lot of time in Lawrence, Kansas, as my paternal grandparents lived there.

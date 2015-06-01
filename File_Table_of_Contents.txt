@@ -1,0 +1,35 @@
+List of Files:
+
+Filename:
+area_description.txt
+
+Description:
+Description of map area used as well as link to data
+
+
+Filename:
+Answers to Rubric Questions.pdf
+
+Description:
+Answers to the questions presented in the grading rubric
+
+
+Filename:
+Lesson6_case_study_code.py
+
+Description:
+Code used in Lesson 6 
+
+
+Filename:
+mongodb_queries_final_project.py
+
+Description:
+Code used to run MongoDB queries on processed map data
+
+
+Filename:
+xml_analysis_and_json_conversion
+
+Description:
+Code used to update xml data and convert into JSON for use in mongodb later on.

@@ -1,0 +1,7 @@
+
+Importing using mongoimport
+http://discussions.udacity.com/t/how-to-import-json-file-into-mongodb/13872
+http://www.toadworld.com/products/toad-extension-for-eclipse/b/weblog/archive/2015/03/12/getting-started-with-mongodb-install-and-configure-sample-data.aspx
+
+using Windows Powershell
+http://www.andyparkhill.co.uk/2012/02/calling-executable-files-in-powershell.html
